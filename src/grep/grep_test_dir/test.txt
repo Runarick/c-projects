@@ -1,0 +1,9 @@
+hello world
+test line
+another line
+HELLO WORLD
+empty line
+
+line with tabs	here
+multiple hello hello
+grep test line
